@@ -34,12 +34,12 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app!
+- [ x ] I disable and enable the buttons to specify that the player can only enter their guess after the pattern sequence is fully played 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+<img src="SITE-pre-work-demo.gif" alt="SITE Pre-work Demo">
 
 ## Reflection Questions
 
