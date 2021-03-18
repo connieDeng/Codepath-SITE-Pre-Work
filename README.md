@@ -40,6 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 <img src="SITE-pre-work-demo.gif" alt="SITE Pre-work Demo">
+Here is a youtube link which demos the light and sound memory game with sound: https://www.youtube.com/watch?v=yIQpYMBbCms
 
 ## Reflection Questions
 
